@@ -1,0 +1,24 @@
+{
+  "company_name": "MIKONtech",
+  "city": "Gostynin i okolice",
+  "audience": "właściciele domów, małe firmy, wspólnoty mieszkaniowe",
+  "tone": "fachowy, prosty, spokojny, pomocny, bez straszenia",
+  "services": ["montaż kamer IP", "monitoring domów", "monitoring firm", "konfiguracja podglądu na telefonie", "modernizacja instalacji CCTV"],
+  "customer_questions": [
+    "Ile kosztuje monitoring domu z czterema kamerami?",
+    "Czy kamera działa bez internetu?",
+    "Czy monitoring nagrywa w nocy?",
+    "Gdzie najlepiej zamontować kamery przy domu?",
+    "Czy mogę oglądać kamery na telefonie?",
+    "Czy monitoring działa podczas awarii prądu?",
+    "Czym różni się kamera IP od analogowej?",
+    "Czy potrzebuję rejestratora do kamer?",
+    "Jak długo można przechowywać nagrania?",
+    "Czy można nagrywać ulicę lub posesję sąsiada?",
+    "Na co zwrócić uwagę przy monitoringu małej firmy?",
+    "Czy lepiej wybrać kamery przewodowe czy Wi-Fi?"
+  ],
+  "news_queries": ["monitoring CCTV kamery bezpieczeństwo domu", "kamery IP bezpieczeństwo cyberbezpieczeństwo", "monitoring wizyjny RODO Polska"],
+  "cta": "Napisz do nas, jeśli chcesz dobrać monitoring do swojej nieruchomości.",
+  "groq_model": "openai/gpt-oss-120b"
+}
